@@ -1,6 +1,6 @@
 // In this file we have the functional component of our app
 
-// Dependencies 
+// Dependencies
 import React, { useState, useEffect } from 'react';
 
 // The UI that we use in this application is @material-ui, it allows to create nice looking applications without a lot of styling when working with React
