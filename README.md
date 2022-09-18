@@ -26,6 +26,8 @@ npm i
 
 npm start
 
+The server will be running on http://localhost:5000/posts
+
 
 On the client terminal use the following commands to start the client side
 
