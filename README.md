@@ -38,3 +38,6 @@ npm i
 (If there is Conflicting peer dependency error, use "npm i --force" command)
 
 npm start
+
+
+Make sure to use these commands in the proper directories of the server and client by using cd server or client command in the terminal
