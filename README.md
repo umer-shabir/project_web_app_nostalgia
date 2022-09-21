@@ -20,7 +20,7 @@ For database storage we use MongoDB, specifically their cloud Atlas version of m
 
 In the \server\.env file, add the connection URL string to connect the application to your MongoDB database before starting.
 
-                                         --------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Server – Terminal
 
@@ -36,7 +36,7 @@ npm start
 
 The server will be running on http://localhost:5000/posts
 
-                                         --------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Client - Terminal
 
