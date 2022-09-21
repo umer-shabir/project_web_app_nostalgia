@@ -26,7 +26,7 @@ Server – Terminal
 
 On the server terminal use the following commands to start the server backend
 
-cd client
+cd server
 
 npm i
 
