@@ -66,7 +66,9 @@ npm run build
 
 This command will generate an optimized production build folder containing static js and css files for the React app. This build folder is used to deploy the applicatiopn on the web.
 
-Now to deploy the build folder locally, use the following command in the \client\build directory Terminal (to get into build directory use cd client then cd build)
+To deploy the build folder locally, use the following command in the \client\build directory Terminal 
+
+(To get into build directory use cd client\build command)
 
 npx serve
 
