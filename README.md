@@ -72,4 +72,4 @@ To deploy the build folder locally, use the following command in the \client\bui
 
 npx serve
 
-This will deploy the optimized build React app locally on http://localhost:5000/posts
+This will deploy the optimized build React app locally on http://localhost:3000/
