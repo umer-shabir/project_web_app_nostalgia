@@ -55,3 +55,19 @@ The client side React app will start at http://localhost:3000
 Make sure to use these commands in the proper directories of the server and client by using cd server or client command in the terminal
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Build/Deploy React Front-end Application
+
+First, in the client\src\api\index.js specify the url string to connect to the back-end server. By default the the React app will send api requests to http://localhost:5000/posts.
+
+To build the Front-end React app use the following command in the client directory (cd client) Terminal
+
+npm run build
+
+This command will generate an optimized production build folder containing static js and css files for the React app. This build folder is used to deploy the applicatiopn on the web.
+
+Now to deploy the build folder locally, use the following command in the \client\build directory Terminal (to get into build directory use cd client then cd build)
+
+npx serve
+
+This will deploy the optimized build React app locally on http://localhost:5000/posts
