@@ -16,7 +16,7 @@ To run this application first you need to have Node Js installed: https://nodejs
 
 A code editor is required to work with the project files, I recommend the editor Visual Studio Code, from https://code.visualstudio.com/
 
-For database storage we use MongoDB, specifically their cloud Atlas version of mongoDB, the database is hosted on ther cloud. Therefore before running the application, setup a mongoDB cluster by registering at https://www.mongodb.com/atlas/database
+For database storage we use MongoDB, specifically their cloud Atlas version of mongoDB, the database is hosted on their cloud. Therefore before running the application, setup a mongoDB cluster by registering at https://www.mongodb.com/atlas/database
 
 In the \server\\.env file, add the connection URL string to connect the application to your MongoDB database before starting.
 
