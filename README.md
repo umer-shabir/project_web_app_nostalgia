@@ -76,7 +76,7 @@ This will deploy the optimized build React app locally on http://localhost:3000/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Test Data
+Testing Application
 
-To test the application functionality, we can add new posts by filling the Form and clicking the submit button. It will display the newly created post on the webpage as well as store it in the database. To test the update functionaly, we can use the Edit button on each post, which on click will populate the Form with the post's data and the users can then make changes to it and submit it. This will update the current post with the new data. Additionally, the users can like a post which will increase the like count on that post, and using the delete button we can test the functionality to remove a post from the webpage as well as the database.
+To test the application functionality, we can add new posts by filling the Form and clicking the submit button. It will display the newly created post on the webpage as well as store it in the database using express server. To test the update functionaly, we can use the Edit button on each post, which on click will populate the Form with the post's data retrieved from database and the users can then make changes to it and submit it. This will update the current post with the new data. Additionally, the users can like a post which will increase the like count on that post, and using the delete button we can test the functionality to remove a post from the webpage as well as the database.
 
